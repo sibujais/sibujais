@@ -57,7 +57,7 @@
 
 <!-- Display GitHub stats in a cool way -->
 
-
-![Shivanshu's GitHub states](https://github-readme-stats.vercel.app/api?username=ajaygupta20f&show_icons=true&theme=dark)
+<!--![Shivanshu's GitHub states](https://github-readme-stats.vercel.app/api?username=ajaygupta20f&show_icons=true&theme=dark)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygupta20f&theme=dark)
