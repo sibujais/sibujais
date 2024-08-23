@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Associate Software Consultant
 - 🌱 I’m working on web as well as mobile development using React.js and React Native
-- 💬 Ask me about React, JavaScript, Core Java, C++, Sql, Oops, DSA.
+- 💬 Ask me about React, JavaScript, C++, Sql, Oops, DSA.
 - ⚡ Fun fact I am Funny
 - 📫 How to reach me: [shivanshujaiswal234@gmail.com](mailto:shivanshujaiswal234@gmail.com)
 
