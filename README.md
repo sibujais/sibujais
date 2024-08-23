@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋 there, I'm Ajay!</h1>
+<h1 align="center">Hi 👋 there, I'm Shivanshu!</h1>
 <h3 align="center">Passionate Web Developer from India</h3>
 
 
-- 🔭 I’m currently working on LMS-Platform-App
-- 🌱 I’m currently Learning Advanced java
+- 🔭 I’m currently working as Associate Software Consultant
+- 🌱 I’m working on web as well as mobile development using React.js and React Native
 - 💬 Ask me about React, JavaScript, Core Java, C++, Sql, Oops, DSA.
 
-- 📫 How to reach me: [ajaygupta912098@gmail.com](mailto:ajaygupta912098@gmail.com)
+- 📫 How to reach me: [shivanshujaiswal234@gmail.com](mailto:shivanshujaiswal234@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kv-DO1DVUe0AdQEBVgw7J6oR22F91ztE/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eUGj51DluN38EFaqBd9xU4KScIZ217yO/view?usp=sharing)
 
 
 
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/ajaygupta20f">
+  <a href="https://github.com/sibujais">
     <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white%22"/>
   </a>
   <a href="https://www.linkedin.com/in/ajay-gupta-758a79204/">
