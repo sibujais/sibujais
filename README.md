@@ -44,7 +44,7 @@
 <h3 align="left">Backend Development:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,sql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,sql" />
   </a>
 </p>
 
